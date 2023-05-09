@@ -1,0 +1,16 @@
+.activated {
+  color: red;
+  font-size: larger;
+}
+
+a{
+  text-decoration: none;
+}
+
+li{
+  list-style: none;
+}
+
+.disabled {
+  color: #808080;
+}
